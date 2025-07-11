@@ -1,3 +1,5 @@
+package com.fernanda.codigo5;
+
 import java.util.Scanner;
 
 /**
